@@ -14,7 +14,7 @@ One thing to note is the **back button** or the previous step button, it not onl
 
 
 
-###User Registration Procedures:
+### User Registration Procedures:
 
 
 
