@@ -41,7 +41,7 @@ For bank platform, the user name and pw are both *‘admin’*.
 
 
 
-#### Guidelines to the Bank Platform:
+### Guidelines to the Bank Platform:
 
 
 
@@ -79,7 +79,7 @@ Ivana’s onboarding information will then be added to the blockchain network.
 
 Should you expect to view all the changes, remember to register all of user1, user2 and user3.
 
-#### A key grasp of the prototype:
+### A key grasp of the prototype:
 
 1.	Digital ID is formed when the user enters it information, documents, and also biometrics. All the things are input into the database gathered as training data for clustering of machine learning. 
 2.	Social media account entering is made available for easier retrieval of the customer data and a more accurate KYC checking.
